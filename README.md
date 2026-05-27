@@ -15,7 +15,7 @@
 
 - 💬 Ask me about *Python,Machine Learning,IOT*
 
-- 📫 How to reach me *siddsharanu@gmail.com*
+- 📫 How to reach me *siddhanthg2002@gmail.com*
 
 - 📄 Know about my experiences 
 
